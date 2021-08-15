@@ -52,6 +52,6 @@ func searchMatrixV2(matrix [][]int, target int) bool {
 			return true
 		}
 	}
-	
+
 	return false
 }
